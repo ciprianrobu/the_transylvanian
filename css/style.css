@@ -497,3 +497,9 @@ margin-left: 0;
   padding-right: 0.6rem;
 }
 
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  }
+

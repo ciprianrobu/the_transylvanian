@@ -81,6 +81,10 @@
   row-gap: 6rem;
 }
 
+#showcase .container {
+  background-attachment: scroll;
+}
+
 
 }
 
@@ -164,6 +168,10 @@
 
   #about article img {
     display: none;
+  }
+
+  #showcase .container {
+    background-attachment: scroll;
   }
 
 
