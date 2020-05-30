@@ -126,6 +126,10 @@ h1 {
   hyphens: none;
 }
 
+#showcase h1 {
+  margin-bottom: 0.8rem;
+}
+
 h2 {
   font-family: nocturne-serif, serif;
   font-weight: 600;
