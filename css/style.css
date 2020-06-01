@@ -460,8 +460,8 @@ margin-left: 0;
 }
 
 #article img {
-  margin-top: 1.6rem;
-  margin-bottom: 3rem;
+  margin-top: 0.6rem;
+  margin-bottom: 1.1rem;
 }
 
 #article article {
@@ -510,9 +510,10 @@ margin-left: 0;
   font-family: nocturne-serif, serif;
   font-weight: 600;
   font-style: normal;
-  font-size: 6rem;
-  line-height: 5.12rem;
-  padding-right: 0.6rem;
+  font-size: 5.6rem;
+  line-height: 4.7rem;
+  padding-right: 0.8rem;
+  transform: translateY(1px);
 }
 
 input {
