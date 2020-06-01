@@ -85,6 +85,23 @@
   background-attachment: scroll;
 }
 
+p {
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  margin-bottom: 1rem;
+}
+
+.p_M {
+  font-size: 1.5rem;
+  line-height: 1.7rem;
+}
+
+.card p {
+  font-size: 1.2rem;
+  line-height: 1.35rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.45rem;
+
 
 }
 
@@ -121,7 +138,7 @@
 
   .grid_3col {
     grid-template-columns: 1fr;
-    row-gap: 5rem;
+    row-gap: 6rem;
   }
 
   #home_articles .hero_article {
@@ -174,7 +191,17 @@
     background-attachment: scroll;
   }
 
+  p {
+    font-size: 1.35rem;
+    line-height: 1.7rem;
+    margin-bottom: 1.4rem;
+  }
 
+  .card p {
+    font-size: 1.35rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.65rem;
+  }
 
-
+}
 }
